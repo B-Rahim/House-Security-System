@@ -5,7 +5,7 @@
 #include <LGATTUUID.h>
 #include <LGSM.h>
 
-// Flag for s the BLE status
+// Flag for the BLE status
 extern bool bleOK;
 
 //-- Interrupt Service Routine for intrusion Detection--//
